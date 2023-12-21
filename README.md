@@ -1,4 +1,2 @@
 # PythonProjects
-All my projects in Python.
-<br>
-Author- Tarun
+All my projects in Python (Udemy).
